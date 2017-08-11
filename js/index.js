@@ -1,0 +1,1 @@
+exports.handle = require('./lib/main.js').handle

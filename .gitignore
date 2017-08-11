@@ -1,0 +1,12 @@
+.DS_Store
+.classpath
+.project
+.settings/
+.gradle/
+build/
+eclipseout/
+bin/
+js/node_modules/
+js/lib/
+*.zip
+packaged*.cf

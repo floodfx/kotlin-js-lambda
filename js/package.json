@@ -1,0 +1,28 @@
+{
+  "name": "kotlin-js-lambda",
+  "version": "1.0.0",
+  "description": "PoC to see if you can compile Kotlin to JavaScript and run it in a AWS Lambda Function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floodfx/kotlin-js-lambda.git"
+  },
+  "keywords": [
+    "kotlin",
+    "javascript",
+    "aws",
+    "lambda"
+  ],
+  "author": "Donnie Flood <donnie@floodfx.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/floodfx/kotlin-js-lambda/issues"
+  },
+  "homepage": "https://github.com/floodfx/kotlin-js-lambda#readme",
+  "dependencies": {
+    "kotlin": "1.1.3-2"
+  }
+}

@@ -9,4 +9,5 @@ bin/
 js/node_modules/
 js/lib/
 *.zip
+*.txt
 packaged*.cf
